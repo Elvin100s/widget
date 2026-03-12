@@ -69,6 +69,19 @@ CarouselView.weighted(
 
 ---
 
+## Three Key Attributes
+
+### 1. `itemExtent`
+Controls the width of each card in the carousel. Default has no set value — you must provide one. Set to `260` in this demo. Increasing it makes cards wider; decreasing it shows more cards at once.
+
+### 2. `itemSnapping`
+Controls whether cards snap into position when you release. Defaults to `false`. Set to `true` in this demo — when you let go mid-scroll, the carousel automatically snaps to the nearest card instead of stopping freely.
+
+### 3. `shrinkExtent`
+Controls the minimum width a partially visible card can shrink to as it scrolls off-screen. Defaults to `0`. Set to `160` in this demo — cards compress to 160px before disappearing, creating a smooth peek effect at the edges.
+
+---
+
 ## Requirements
 
 - Flutter 3.19 or later
