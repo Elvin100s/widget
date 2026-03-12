@@ -92,7 +92,7 @@ Controls the minimum width a partially visible card can shrink to as it scrolls 
 
 ## Screenshot
 
-![App Screenshot](carousel%20demo.jpeg)
+<img src="carousel%20demo.jpeg" width="200"/>
 
 ## Running the App
 
