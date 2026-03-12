@@ -77,6 +77,10 @@ CarouselView.weighted(
 
 ---
 
+## Screenshot
+
+![App Screenshot](carousel%20demo.jpeg)
+
 ## Running the App
 
 ```bash
